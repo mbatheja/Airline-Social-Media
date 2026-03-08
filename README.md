@@ -8,43 +8,43 @@ Based on the analysis of over 14,000 tweets, the following insights were identif
 
 ### 1. Sentiment Distribution
 
-<li> **Dominant Negativity**: A significant majority of customer interactions are negative. </li>
+<li> Dominant Negativity: A significant majority of customer interactions are negative. </li>
 
-<li> **Airline Specifics**: United, US Airways, and American Airlines receive the highest volume of negative feedback. </li>
+<li> Airline Specifics: United, US Airways, and American Airlines receive the highest volume of negative feedback. </li>
 
-<li> **Positive Outliers**: Virgin America and Southwest maintain a more balanced sentiment profile compared to their larger competitors. </li>
+<li> Positive Outliers: Virgin America and Southwest maintain a more balanced sentiment profile compared to their larger competitors. </li>
 
 ### 2. Primary Pain Points
 
-<li> **Customer Service**: This is the leading cause of negative sentiment across almost all airlines. </li>
+<li> Customer Service: This is the leading cause of negative sentiment across almost all airlines. </li>
 
-<li> **Operational Delays**: "Late Flight" and "Cancelled Flight" are the second and third most common reasons for customer complaints. </li>
+<li> Operational Delays: "Late Flight" and "Cancelled Flight" are the second and third most common reasons for customer complaints. </li>
 
-<li> **Booking Frustrations**: After cancellations, issues with the booking process are a major driver of customer dissatisfaction. </li>
+<li> Booking Frustrations: After cancellations, issues with the booking process are a major driver of customer dissatisfaction. </li>
 
 ### 3. Behavioral Trends
  
-<li> **Temporal Patterns**: Negative tweets peak during morning hours, suggesting higher customer stress or operational hurdles during early departures. </li>
+<li> Temporal Patterns: Negative tweets peak during morning hours, suggesting higher customer stress or operational hurdles during early departures. </li>
  
-<li> **Language Intensity**: The use of all-caps text in tweets is a strong indicator of high negative intensity and a higher probability of customer churn if not addressed. </li>
+<li> Language Intensity: The use of all-caps text in tweets is a strong indicator of high negative intensity and a higher probability of customer churn if not addressed. </li>
  
-<li> **Sarcasm Detection**: High-intensity language is often used to convey sarcasm, which requires advanced NLP for accurate sentiment classification. </li>
+<li> Sarcasm Detection: High-intensity language is often used to convey sarcasm, which requires advanced NLP for accurate sentiment classification. </li>
 
 ## Strategic Recommendations
 
 The following evidence-based recommendations are proposed for airline stakeholders:
 
-<li> **Morning Staffing**: Increase the proportion of human customer service representatives (concierges) during morning hours to handle the surge in negative interactions. </li>
-<li> **Targeted Troubleshooting**: Implement AI-driven chatbots specifically designed to handle FAQs and troubleshoot booking issues, which are a major source of "sadness" in sentiment. </li>
-<li> **Operational Modeling**: Use data to model the causes and locations of flight cancellations to better adapt flight routes and refund policies to mitigate customer impact. </li>
-<li> **Proactive Engagement**: Prioritize responding to high-intensity/all-caps tweets to prevent immediate customer loss. </li>
+<li> Morning Staffing: Increase the proportion of human customer service representatives (concierges) during morning hours to handle the surge in negative interactions. </li>
+<li> Targeted Troubleshooting: Implement AI-driven chatbots specifically designed to handle FAQs and troubleshoot booking issues, which are a major source of "sadness" in sentiment. </li>
+<li> Operational Modeling: Use data to model the causes and locations of flight cancellations to better adapt flight routes and refund policies to mitigate customer impact. </li>
+<li> Proactive Engagement: Prioritize responding to high-intensity/all-caps tweets to prevent immediate customer loss. </li>
 
 ## Features
 
-<li> **EDA**: Data cleaning and handling missing values in `negativereason` and `confidence` scores. </li>
-<li> **Sentiment Analysis**: Advanced classification using NLTK and Transformer models. </li>
-<li> **LLM Integration**: Utilizing OpenAI for nuanced text analysis and insight generation. </li>
-<li> **Visualization**: Comparative analysis of sentiment and complaint types across airlines. </li>
+<li> EDA: Data cleaning and handling missing values in `negativereason` and `confidence` scores. </li>
+<li> Sentiment Analysis: Advanced classification using NLTK and Transformer models. </li>
+<li> LLM Integration: Utilizing OpenAI for nuanced text analysis and insight generation. </li>
+<li> Visualization: Comparative analysis of sentiment and complaint types across airlines. </li>
 
 ## Setup
 
