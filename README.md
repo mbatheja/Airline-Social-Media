@@ -8,27 +8,27 @@ Based on the analysis of over 14,000 tweets, the following insights were identif
 
 ### 1. Sentiment Distribution
 
-<ol> **Dominant Negativity**: A significant majority of customer interactions are negative. </ol>
+<li> **Dominant Negativity**: A significant majority of customer interactions are negative. </li>
 
-<ol> **Airline Specifics**: United, US Airways, and American Airlines receive the highest volume of negative feedback. </ol>
+<li> **Airline Specifics**: United, US Airways, and American Airlines receive the highest volume of negative feedback. </li>
 
-<ol> **Positive Outliers**: Virgin America and Southwest maintain a more balanced sentiment profile compared to their larger competitors. </ol>
+<li> **Positive Outliers**: Virgin America and Southwest maintain a more balanced sentiment profile compared to their larger competitors. </li>
 
 ### 2. Primary Pain Points
 
-<ol> **Customer Service**: This is the leading cause of negative sentiment across almost all airlines. </ol>
+<li> **Customer Service**: This is the leading cause of negative sentiment across almost all airlines. </li>
 
-<ol> **Operational Delays**: "Late Flight" and "Cancelled Flight" are the second and third most common reasons for customer complaints. </ol>
+<li> **Operational Delays**: "Late Flight" and "Cancelled Flight" are the second and third most common reasons for customer complaints. </li>
 
-<ol> **Booking Frustrations**: After cancellations, issues with the booking process are a major driver of customer dissatisfaction. </ol>
+<li> **Booking Frustrations**: After cancellations, issues with the booking process are a major driver of customer dissatisfaction. </li>
 
 ### 3. Behavioral Trends
  
-<ol> **Temporal Patterns**: Negative tweets peak during morning hours, suggesting higher customer stress or operational hurdles during early departures. </ol>
+<li> **Temporal Patterns**: Negative tweets peak during morning hours, suggesting higher customer stress or operational hurdles during early departures. </li>
  
-<ol> **Language Intensity**: The use of all-caps text in tweets is a strong indicator of high negative intensity and a higher probability of customer churn if not addressed. </ol>
+<li> **Language Intensity**: The use of all-caps text in tweets is a strong indicator of high negative intensity and a higher probability of customer churn if not addressed. </li>
  
-<ol> **Sarcasm Detection**: High-intensity language is often used to convey sarcasm, which requires advanced NLP for accurate sentiment classification. </ol>
+<li> **Sarcasm Detection**: High-intensity language is often used to convey sarcasm, which requires advanced NLP for accurate sentiment classification. </li>
 
 ## Strategic Recommendations
 
