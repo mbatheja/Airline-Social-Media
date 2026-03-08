@@ -1,0 +1,21 @@
+# Data Manipulation & Analysis
+numpy==2.0.2
+pandas
+regex
+
+# Visualization
+matplotlib
+seaborn
+
+# Natural Language Processing
+emoji==2.15.0
+nltk
+tqdm==4.67.3
+
+# Machine Learning & LLMs
+openai==2.21.0
+python-dotenv==1.2.1
+transformers
+torch==2.10.0+cu128
+torchvision==0.25.0+cu128
+torchaudio==2.10.0+cu128
